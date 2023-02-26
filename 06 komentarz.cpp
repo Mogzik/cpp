@@ -5,7 +5,7 @@
 
 void komentarz(void)
 {
-    udokumentowany kod często poprawia czytelność oprogramowania
+    //udokumentowany kod często poprawia czytelność oprogramowania
 
     return;
 }
